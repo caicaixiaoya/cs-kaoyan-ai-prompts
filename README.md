@@ -4,9 +4,11 @@
 
 作者曾备考计算机考研，408 考试期间大量使用 AI 辅助学习。
 
-这是我备考期间用的 deepseek 对话链接，也可以分享给大家：[https://chat.deepseek.com/share/85vbek5aqdarl4udfj](https://chat.deepseek.com/share/85vbek5aqdarl4udfj)
+这是我备考期间用的 deepseek 对话链接，可以分享给大家：[https://chat.deepseek.com/share/85vbek5aqdarl4udfj](https://chat.deepseek.com/share/85vbek5aqdarl4udfj)
 
 这是网页端链接：[[CS考研 AI提示词平台](https://app7445.acapp.acwing.com.cn/)]([CS考研 AI提示词平台](https://app7445.acapp.acwing.com.cn/))
+
+祝愿每一位考研人都能一路生花，前程似锦，考上自己的梦中情校
 
 本仓库的核心理念：**不只给你 prompt，更教你如何验证 AI 的输出，建立自主辨别能力。**
 
